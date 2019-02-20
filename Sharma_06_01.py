@@ -1,7 +1,4 @@
-# Sharma, Roopam
-# 1001-559-960
-# 2018-12-09
-# Assignment-06-01
+
 
 import tensorflow as tf
 from collections import Counter
